@@ -1,0 +1,3 @@
+- 👋 Hi, I’m tW1st
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning frontend
